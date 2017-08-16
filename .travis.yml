@@ -16,5 +16,5 @@ install:
   - go get github.com/deckarep/golang-set
   - go get github.com/nhoya/goPwned
   - go get github.com/jessevdk/go-flags
-  - gopkg.in/src-d/go-git.v4
+  - go get gopkg.in/src-d/go-git.v4
   - go build
